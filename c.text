@@ -1,10 +1,8 @@
-hello world! 
-add 
-add 
-add 
-asdfgqw
-as
-qwtyy
+#include <stdio.h>
 
+int main(void)
+{
+printf("Hello World!");
 
-yhfssshello!!!!!!! 
+return 0;
+}
